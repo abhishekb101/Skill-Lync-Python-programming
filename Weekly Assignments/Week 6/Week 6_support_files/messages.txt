@@ -1,0 +1,4 @@
+Good evening
+Hope you are doing well
+This is a python course
+We are currently on Week 6

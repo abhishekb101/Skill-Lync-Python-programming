@@ -1,0 +1,3 @@
+Good morning
+This is a Python course.
+We are currently on week 6.
